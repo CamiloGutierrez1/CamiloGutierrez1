@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ## Hi Everyone I'm Camilo Gutiérrez!
 
+=======
+## Hi Everyone! 
+>>>>>>> b7420497401febb74a00b719de4d3c4ade61e19d
 
     
 
