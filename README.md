@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi Everyone! My name is Camilo Gutierrez
+## a student of Informatics Engineering 
+
+    
 
 <!--
 **CamiloGutierrez1/CamiloGutierrez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
