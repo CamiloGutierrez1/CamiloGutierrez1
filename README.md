@@ -1,5 +1,5 @@
-## Hi Everyone! My name is Camilo Gutierrez
-## a student of Informatics Engineering 
+## Hi Everyone I'm Camilo Gutiérrez!
+
 
     
 
