@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Camilo Andrés Gutiérrez
 
-🎓 Computer Engineering student at **Universidad de La Sabana**  
+🎓 Informatics Engineering student at **Universidad de La Sabana**  
 💻 I'm passionate about everything related to technology, software development, and cybersecurity  
 🎯 Currently focused on improving my programming skills  
 📚 Learning: HTML, CSS, JavaScript  
